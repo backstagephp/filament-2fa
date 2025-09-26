@@ -1,5 +1,8 @@
 # Filament 2FA plugin
 
+> [!WARNING]
+> **This package is now ABANDONED** as of Filament v4. Filament now includes built-in multi-factor authentication functionality. Please migrate to the [official Filament MFA documentation](https://filamentphp.com/docs/4.x/users/multi-factor-authentication) for your 2FA needs.
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/backstagephp/filament-2fa.svg?style=flat-square)](https://packagist.org/packages/backstagephp/filament-2fa)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/backstagephp/filament-2fa/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/backstagephp/filament-2fa/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![PHPStan](https://img.shields.io/github/actions/workflow/status/backstagephp/filament-2fa/phpstan.yml?branch=main&label=phpstan&style=flat-square)](https://github.com/backstagephp/filament-2fa/actions/workflows/phpstan.yml)
